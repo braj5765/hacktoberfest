@@ -1,3 +1,8 @@
+#### Name: Braj Kishan Singh (https://github.com/braj5765)
+ -Place: Chittorgarh,Rajasthan,India
+ -Bio: Third year Student, B.Tech ECE SMVDU
+ -Github: [braj5765](https://github.com/braj5765)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
